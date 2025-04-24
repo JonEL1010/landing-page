@@ -1,0 +1,47 @@
+.navbar {
+    background-color: rgba(0, 0, 0, 0.705);
+    padding: 50px;
+    text-align: center;
+    
+}
+.nav-link{
+    color: white;
+}
+
+ .nav-link:hover{
+    color: rgb(243, 71, 71);
+ }
+
+ .landing-container {
+    background-color: antiquewhite;
+    align-content: center;
+    padding: 50px;
+ }
+
+ .header {
+    font: normal;
+    color: darkslateblue;
+    margin: 50px;
+
+ }
+
+ .product-subtitle {
+    text-size-adjust: 20px;
+    color: rgb(63, 56, 56);
+ }
+
+ .hero-image {
+   max-width: 1000px; height: 500px;
+   border-radius: 30px;
+   margin-bottom: 50px;
+ }
+
+ .hero-text {
+   position: absolute;
+   padding: 10px;
+   bottom: 20px;
+   left: 810px;
+   background-color: black; opacity: 60%;
+   color: white;
+   border-radius: 5px;
+ }
