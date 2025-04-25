@@ -31,15 +31,17 @@
  }
 
  .hero-image {
-   max-width: 1000px; height: 500px;
+   max-width: 50%;
    border-radius: 30px;
    margin-bottom: 50px;
+   margin-left: 480px;
  }
 
  .hero-text {
    position: absolute;
    padding: 10px;
-   bottom: 20px;
+   top: 55%;
+   bottom: 350px;
    left: 810px;
    background-color: black; opacity: 60%;
    color: white;
